@@ -1,0 +1,23 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri":"mysql://root:@localhost/techblogs",
+    "prod_uri": "mysql://root:@localhost/techblogs",
+    "in_url": "https://instagram.com/amanasati11",
+    "li_url":"https://linkedin.com/in/amanasati/",
+    "fb_url":"https://facebook.com/aman.asati.3",
+    "blog_name": "Tech Blogs",
+    "tag_line": "Everything is designed.Few things are designed well.",
+    "gmail-user" : "gmail-user",
+    "gmail-password" : "gmail-password",
+    "about_text" : "Hi confidential",
+    "no_of_posts" : 4,
+    "login_img" : "login.svg",
+    "admin_user" : "user",
+    "admin_password" : "kya pta",
+    "upload_location" : "C:\\Users\\Aaaa\\Desktop\\Flask Complete\\static"
+
+  }
+
+}
